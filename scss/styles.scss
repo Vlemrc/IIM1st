@@ -1,0 +1,12 @@
+@use "base" as *;
+@use "variables" as *;
+@use "reset" as *;
+@use "classes" as *;
+@use "utils" as *;
+@use "media-queries" as *;
+
+body {
+  h1 {
+    color: blue;
+  }
+}
