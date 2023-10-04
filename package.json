@@ -7,7 +7,8 @@
     "test": "jest",
     "dev": "vite",
     "prepare": "husky install",
-    "sass": "sass -w ./scss:css"
+    "sass": "sass -w ./scss:css",
+    "tailwind" :"tailwindcss build styles.css -o css/styles.css"
   },
   "author": "",
   "license": "ISC",
